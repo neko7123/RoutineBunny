@@ -44,25 +44,25 @@ Whether you're taking care of your skin, building healthier habits, or simply tr
 
 ### 🏡 Home — Our daily little plan
 
-<img src="assets/home.jpg" width="260" alt="RoutineBunny Home screen" />
+<img src="assets/home.jpeg" width="260" alt="RoutineBunny Home screen" />
 
 "This is where our day begins! 💗 Let's see what we have planned, check off the little things we've done, and make today a good one — one tiny step at a time!"
 
 ### 📅 Calendar — Our memories together
 
-<img src="assets/calender.jpg" width="260" alt="RoutineBunny Calendar screen" />
+<img src="assets/calender.jpeg" width="260" alt="RoutineBunny Calendar screen" />
 
 "Look at all those days! 🌸 We can use our calendar to look back at our routines and see how our journey is going. Every little step counts, even the tiny ones!"
 
 ### 🪞 Myself — A little space for you
 
-<img src="assets/myself.jpg" width="260" alt="RoutineBunny Myself screen" />
+<img src="assets/myshelf.png" width="260" alt="RoutineBunny Myself screen" />
 
-"Psst... this is your time to shine! ✨ A little space for your personal journey, your self-care, and the things that make you *you*."
+"Psst... this is your inventory of skin care! ✨ A little space for your personal cosmetics, your self-care, and the things that make you *you*."
 
 ### ⚙️ Settings — Make our burrow yours
 
-<img src="assets/settings.jpg" width="260" alt="RoutineBunny Settings screen" />
+<img src="assets/settings.jpeg" width="260" alt="RoutineBunny Settings screen" />
 
 "Every bunny is different, so why shouldn't every routine be different too? 🎀 Come make yourself comfortable and personalize your experience!"
 
