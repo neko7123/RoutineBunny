@@ -1,0 +1,50 @@
+name: routinebunny
+description: A local-first routine planner with a gentle, kawaii visual identity.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^14.2.7
+  flutter_riverpod: ^2.5.1
+  shared_preferences: ^2.3.3
+  intl: 0.20.3
+  drift: ^2.28.1
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  flutter_local_notifications: ^19.4.2
+  http: ^1.5.0
+  timezone: ^0.10.1
+  flutter_timezone: ^4.1.0
+  image_picker: ^1.1.2
+  file_picker: ^13.2.0
+  share_plus: ^13.3.1
+  currency_picker: ^2.0.22
+  image_cropper: ^13.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.13
+  drift_dev: ^2.28.1
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/routine_bunny_mascot.png
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#FFF0F3"
+  adaptive_icon_foreground: "assets/logo.png"

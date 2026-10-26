@@ -1,0 +1,11 @@
+{
+  "@@locale": "ko",
+  "appName": "RoutineBunny",
+  "tagline": "작은 알림으로 더 사랑스러운 하루. ♡",
+  "continueLabel": "계속",
+  "home": "홈",
+  "calendar": "캘린더",
+  "add": "추가",
+  "myShelf": "내 선반",
+  "settings": "설정"
+}
